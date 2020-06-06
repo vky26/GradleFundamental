@@ -7,12 +7,12 @@ This is all about basics of Gradle configs and tasks
 
  Alternatively you can chose - gradle init. Output is below for both the steps
 
-  ── build.gradle  
-  ── gradle
-    has wrapper has gradle-wrapper.jar & gradle-wrapper.properties         
-  ── gradlew  
-  ── gradlew.bat  
-  ── settings.gradle  
+  * build.gradle  
+  * gradle
+    has wrapper folder containing gradle-wrapper.jar & gradle-wrapper.properties         
+  * gradlew  
+  * gradlew.bat  
+  * settings.gradle  
 
 Gradle build script for configuring the current project
 Gradle Wrapper executable JAR
