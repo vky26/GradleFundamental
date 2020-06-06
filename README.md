@@ -9,9 +9,7 @@ This is all about basics of Gradle configs and tasks
 
   ── build.gradle  
   ── gradle
-    ── wrapper
-       ── gradle-wrapper.jar  
-       ── gradle-wrapper.properties  
+    has wrapper has gradle-wrapper.jar & gradle-wrapper.properties         
   ── gradlew  
   ── gradlew.bat  
   ── settings.gradle  
